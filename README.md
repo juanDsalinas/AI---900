@@ -14,7 +14,7 @@ Este repositorio está diseñado para proporcionar una colección de recursos y 
 
 ## Contenido
 
-- [Proyectos](/proyectos): Explora los proyectos de IA disponibles en este repositorio.
+- [Proyectos](/Proyectos): Explora los proyectos de IA disponibles en este repositorio.
 - [Algoritmos](/algoritmos): Implementaciones de algoritmos de aprendizaje automático.
 - [Notebooks](/notebooks): Notebooks de Jupyter con ejemplos y tutoriales.
 - [Datos](/datos): Conjuntos de datos y recursos para tus proyectos de IA.
