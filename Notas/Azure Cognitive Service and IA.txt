@@ -1,0 +1,50 @@
+Azure Cognitive Services:
+- Crear una IA desde cero puede ser desgastante y
+muy tedioso, Entonces ¿porque no utilizar algo
+ya hecho?
+
+Son un conjunto de APIs, SDKs, Services, etc 
+para poder consumir los servicios 
+
+Servicios preconstruidos:
+discurso, lengua, vision, busqueda, desicion
+
+- Vision: 
+computer vision: algoritmos avanzados para
+procesar imagenes y devolver informacion
+(deteccion de objetos, caracteristicas)
+
+custom vision service: clasificador de imagenes
+personalizados
+
+face api:algoritmos de rostro avanzados, 
+analiza rostros
+
+video indexer:extra informacion de su video
+
+- Voz:
+texto a voz
+
+voz a texto puede utilizar Luis(languaje
+understanding)
+
+traduccion de voz
+
+Analisis de texto: 
+poder extraer informacion de textos(
+identificar el idioma, descubrir 
+sentimientos)
+
+traduccion de texto:
+
+- existen dos opciones:
+el normalito y el personalizado que es
+mas potente de cierta manera
+
+
+
+
+
+
+
+
