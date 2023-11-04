@@ -30,12 +30,4 @@ Este repositorio está diseñado para proporcionar una colección de recursos y 
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este repositorio, no dudes en abrir un *pull request* con tus cambios o mejoras. También puedes informar sobre problemas o errores abriendo *issues*.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Si utilizas el código o los recursos de este repositorio, asegúrate de cumplir con la licencia.
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. Puedes encontrarme en [tu@email.com](mailto:tu@email.com).
-
 ¡Gracias por visitar mi repositorio de Inteligencia Artificial!
